@@ -1,2 +1,0 @@
-C:\Users\imman\source\repos\purecs2CC_Installer\bin\Release\net8.0-windows\win-x64\publish\purecs2CC_Installer.pdb
-C:\Users\imman\source\repos\purecs2CC_Installer\bin\Release\net8.0-windows\win-x64\publish\purecs2CC_Installer.exe
