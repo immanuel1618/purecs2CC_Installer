@@ -39,9 +39,10 @@
 Если антивирус всё же ругается, попробуйте добавить C:/purecs2-Checker-Cheat/ в исключения вручную.
 
 ## 👨‍💻 Контакты
-📌 Site: [бибабуп](https://immanuel.nna1618.com/)  
+🌐 Site: [бибабуп](https://immanuel.nna1618.com/)  
 📌 Telegram: [@StreetPN](https://t.me/StreetPN)  
-📌 GitHub: [immanuel1618](https://github.com/immanuel1618)
+🦈 GitHub: [immanuel1618](https://github.com/immanuel1618)
+✨ Discord chanel [StreetPN](https://discord.gg/xXk2VTU5)
 
 ---
 💙 Сделано с душой. Если проект полезен — жми ⭐ в репо!
